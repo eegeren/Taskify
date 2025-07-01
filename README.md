@@ -1,0 +1,2 @@
+# Taskify
+Görev Yönetim Uygulaması
