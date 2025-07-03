@@ -13,8 +13,8 @@ Taskify, iOS platformu için tasarlanmış bir görev yönetimi uygulamasıdır.
 ## Ekran Görüntüleri
 
 
-![Görevler](screenshots/görevler.png)
-![İstatistik](screenshots/istatistik.png)
+<img src="screenshots/istatistik.png" width="200" />
+<img src="screenshots/görevler.png" width="200" />
 
 
 ## Kullanım
