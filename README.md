@@ -10,12 +10,13 @@ Taskify, iOS platformu için tasarlanmış bir görev yönetimi uygulamasıdır.
 - **Bildirimler**: Son tarihler için otomatik hatırlatıcılar.
 - **İstatistikler**: Tamamlama oranınızı ve kategori dağılımını görün.
 
-## Ekran Görüntüleri
+## 📸 Ekran Görüntüleri
 
+### 📊 İstatistik Ekranı
+<img src="Screenshots/istatistik.png" width="300" />
 
-<img src="screenshots/istatistik.png" width="200" />
-<img src="screenshots/görevler.png" width="200" />
-
+### ✅ Görevler Ekranı
+<img src="Screenshots/görevler.png" width="300" />
 
 ## Kullanım
 - Yeni görev eklemek için "+" butonuna basın.
